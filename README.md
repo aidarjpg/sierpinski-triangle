@@ -39,4 +39,4 @@ The results are fascinating. Below are the results of 100, 1000 and 10 000 itera
 </table>
 
 I plan to experiment with changing Rule #2 by taking random fraction of distance
-Also, something interesting may happen whne trying to apply these rules on other geometric figures... Stay tuned!
+Also, something interesting may happen when trying to apply these rules on other geometric figures...
